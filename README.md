@@ -1,32 +1,32 @@
-# Naveen Sandeepa
-### Senior Software Engineer & Solutions Architect
+# Hi, I'm Naveen Sandeepa
+### Full-Stack & Mobile Application Developer
 
-I design, build, and maintain production-grade distributed backends, real-time communication systems, and high-performance cross-platform mobile architectures.
+I specialize in building cross-platform mobile apps with Flutter and backend services using FastAPI and Python, integrating AI models and real-time features into functional products.
 
-Focus Areas: Clean Architecture • Async Python / FastAPI • Flutter Internals • Distributed Systems • LLM Tooling
-Availability: Remote Contracts, Architecture Advisory, and Core Engineering Sprints
+• Focus: Flutter Mobile Development • FastAPI / Python Backends • AI API Integrations • Automation
+• Open for: Remote Software Engineering Roles, Full-Stack Contracts, and Mobile Projects
 
-
----
-
-### Technical Competencies & Systems Architecture
-
-* **Mobile Core & Protocols:** Flutter, Dart, Riverpod / BLoC, WebRTC (peer-to-peer data/media streams), Native Platform Channels, Offline-first sync pipelines.
-* **Backend Infrastructure & APIs:** Python, FastAPI, Next.js, Asynchronous Task Queues, WebSockets, SQLAlchemy, RESTful/RPC API design.
-* **AI & Agentic Orchestration:** Structured Agent Architectures, Function Calling / Tool Use, RAG Pipelines (Vector Indexing), Local/Cloud LLM Integrations.
-* **Data Systems & Reliability:** PostgreSQL, SQLite, Redis caching layers, Docker containerization, CI/CD automated testing pipelines.
 
 ---
 
-### Engineering Principles & Standards
+### Tech Stack & Hands-on Experience
 
-* **Architecture First:** Separation of concerns using Clean Architecture and domain-driven patterns to keep business logic isolated from UI and external frameworks.
-* **Defensive Engineering:** Strict type safety, deterministic error handling, and end-to-end regression testing.
-* **Performance & Latency:** Minimizing main-thread bottlenecks in mobile rendering, optimizing async database query cycles, and reducing real-time socket overhead.
+- **Mobile Development:** Flutter, Dart, Riverpod / State Management, REST API Integration, Responsive UI Design
+- **Backend & APIs:** FastAPI, Python, Next.js, Node.js, SQLite, PostgreSQL, RESTful APIs
+- **AI & Integrations:** Gemini API, OpenAI GPT, LangChain, Workflow Automations, Third-Party API integrations
+- **Tools & Workflow:** Git, GitHub, Docker basics, Postman, Linux/macOS environments
 
 ---
 
-### Direct Communications
+### Key Project Domains
 
-* **LinkedIn:** [linkedin.com/in/naveen-kariyawasam-b85507229](https://www.linkedin.com/in/naveen-kariyawasam-b85507229/)
-* **Email:** hknskariyawasamnaveen@gmail.com
+- **Cross-Platform Mobile Apps:** Real-world applications built with Flutter, focusing on clean UI, offline capability, and API communication.
+- **Backend Services & APIs:** High-speed, async REST APIs built with Python & FastAPI to power modern web and mobile apps.
+- **Workflow & AI Automation:** Custom agent pipelines, data tools, and notification systems connecting APIs and web services.
+
+---
+
+### Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/naveen-kariyawasam-b85507229](https://www.linkedin.com/in/naveen-kariyawasam-b85507229/)
+- **Email:** hknskariyawasamnaveen@gmail.com
