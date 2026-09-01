@@ -17,10 +17,8 @@ Available for remote contractor roles, startup engineering sprints, and technica
 
 ### GitHub Activity & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kariyawasamnaveen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naveen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariyawasamnaveen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![Naveen's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kariyawasamnaveen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/kariyawasamnaveen)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kariyawasamnaveen&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kariyawasamnaveen)
 
 ---
 
