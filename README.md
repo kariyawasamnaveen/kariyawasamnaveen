@@ -6,7 +6,7 @@ Available for remote contractor roles, startup engineering sprints, and technica
 
 ---
 
-### 🛠️ Core Tech Stack & Architecture
+### Core Tech Stack & Architecture
 
 - **Mobile Development:** Flutter, Dart, Riverpod, BLoC, Clean Architecture, WebRTC, Native Platform Channels (Android/iOS)
 - **Backend & APIs:** FastAPI, Python, Next.js, Node.js, REST APIs, WebSockets, SQLAlchemy
@@ -15,7 +15,7 @@ Available for remote contractor roles, startup engineering sprints, and technica
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kariyawasamnaveen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Naveen's GitHub Stats" />
@@ -24,14 +24,14 @@ Available for remote contractor roles, startup engineering sprints, and technica
 
 ---
 
-### 💼 Production Solutions & Domains
+### Production Solutions & Domains
 - **Real-Time Interactive Systems:** Low-latency WebRTC engines and mobile live-streaming integrations.
 - **Enterprise Multi-Agent Pipelines:** Async FastAPI architectures processing automated reasoning and structured outputs.
 - **Cross-Platform Mobile Apps:** High-performance apps built with modular clean architectures and robust local state management.
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/naveen-kariyawasam-b85507229](https://www.linkedin.com/in/naveen-kariyawasam-b85507229/)
 - **Email:** hknskariyawasamnaveen@gmail.com
