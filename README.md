@@ -1,4 +1,4 @@
-# Hi, I'm Naveen Sandeepa
+# Hi, I'm Naveen Sandeepa 
 ### Full-Stack & Mobile Application Developer
 
 I specialize in building cross-platform mobile apps with Flutter and backend services using FastAPI and Python, integrating AI models and real-time features into functional products.
@@ -28,5 +28,5 @@ I specialize in building cross-platform mobile apps with Flutter and backend ser
 
 ### Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/naveen-kariyawasam-b85507229]([https://www.linkedin.com/in/naveen-kariyawasam](https://www.linkedin.com/in/naveen-kariyawasam))
+- **LinkedIn:** [linkedin.com/in/naveen-kariyawasam](https://www.linkedin.com/in/naveen-kariyawasam/)
 - **Email:** hknskariyawasamnaveen@gmail.com
