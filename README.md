@@ -28,5 +28,5 @@ I specialize in building cross-platform mobile apps with Flutter and backend ser
 
 ### Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/naveen-kariyawasam-b85507229](https://www.linkedin.com/in/naveen-kariyawasam)
+- **LinkedIn:** [linkedin.com/in/naveen-kariyawasam-b85507229]([https://www.linkedin.com/in/naveen-kariyawasam](https://www.linkedin.com/in/naveen-kariyawasam))
 - **Email:** hknskariyawasamnaveen@gmail.com
